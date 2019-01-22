@@ -3,6 +3,7 @@ import Location from './Location';
 import WeatherData from './WeatherData';
 
 
+
 const WeatherLocation = () => (
     <div> 
          <Location city={"Reikiavik"}></Location>
@@ -10,5 +11,6 @@ const WeatherLocation = () => (
 
   </div>
 );
+
 
 export default WeatherLocation;
